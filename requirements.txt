@@ -1,7 +1,4 @@
 uuid
-json
-psutil
-logging
 flask
 geocoder
 subprocess
