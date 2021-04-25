@@ -2,4 +2,4 @@ uuid
 flask
 geocoder
 psutil
-logging
+logging==0.5.1.2
