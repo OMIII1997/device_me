@@ -1,4 +1,3 @@
-socket
 uuid
 json
 psutil
