@@ -1,4 +1,4 @@
-platform
+platform==1.0.8
 socket
 re
 uuid
